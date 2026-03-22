@@ -37,7 +37,7 @@ export const Header: React.FC<HeaderProps> = ({ isLive = true, onModeratorTrigge
             role="button"
             tabIndex={-1}
             aria-hidden="true"
-            className="w-14 h-14 bg-indigo-600 rounded-xl flex items-center justify-center text-white shadow-indigo-100 shadow-xl transition-transform hover:scale-105 select-none cursor-pointer"
+            className="w-16 h-16 bg-indigo-600 rounded-xl flex items-center justify-center text-white shadow-indigo-100 shadow-xl transition-transform hover:scale-105 select-none cursor-pointer"
           >
             <span className="relative">
               <i className="fa-solid fa-hand-fist text-2xl"></i>
@@ -45,12 +45,9 @@ export const Header: React.FC<HeaderProps> = ({ isLive = true, onModeratorTrigge
             </span>
           </div>
           <div>
-            <h1 className="text-base font-black tracking-tight text-slate-900 leading-none">
+            <h1 className="text-lg font-black tracking-tight text-slate-900 leading-none">
               The Long <span className="text-indigo-600">Fight</span>
             </h1>
-            <p className="text-xs font-bold tracking-wide text-indigo-500 mt-0.5">
-              Saving Souls — Mental Health Is the Mission
-            </p>
           </div>
         </div>
         
