@@ -123,7 +123,7 @@ const App = () => {
                                 </div>
                                 <div>
                                     <h2 className="text-xl font-bold text-slate-800 mb-3 flex items-center gap-2"> Our mission is no ordinary mission </h2>
-                                    <p className="text-slate-700 leading-relaxed mb-2">This mission was launched in memory of those handed an impossible mission — to fight mental illness alone. May you rest in peace.</p>
+                                    <p className="text-slate-700 leading-relaxed mb-2">This mission was launched in memory of those who waited for help that never came. May you rest in peace.</p>
                                     <p className="text-slate-700 leading-relaxed mb-4">Here is what we are fighting for:</p>
                                     <ol className="list-decimal list-inside text-slate-700 leading-relaxed space-y-2">
                                         <li>Secure more funding for organizations like CAMH — via donations and earmarked funds from the government.</li>
