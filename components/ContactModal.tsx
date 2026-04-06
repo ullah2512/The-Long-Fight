@@ -56,7 +56,7 @@ export const ContactModal: React.FC = () => {
 
             <div className="border-t border-slate-200 pt-4">
               <p className="text-slate-600 text-sm leading-relaxed">
-                Whether you have questions about the platform, want to report an issue, or would like to get involved in supporting mental health initiatives — reach out and we'll get back to you as soon as possible.
+                Whether you have questions about the platform or want to report an issue — reach out and we'll get back to you as soon as possible.
               </p>
             </div>
           </div>
