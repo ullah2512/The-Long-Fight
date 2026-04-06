@@ -119,11 +119,11 @@ const App = () => {
                         <div className="bg-gradient-to-br from-indigo-50 to-purple-50 rounded-2xl p-8 mb-8 border border-indigo-100 shadow-sm">
                             <div className="flex items-start gap-4">
                                 <div className="flex-shrink-0 w-12 h-12 bg-indigo-600 rounded-xl flex items-center justify-center text-white shadow-lg">
-                                    <i className="fa-solid fa-heart-pulse text-xl"></i>
+                                    <i className="fa-solid fa-heart-pulse text-xl animate-pulse"></i>
                                 </div>
                                 <div>
                                     <h2 className="text-xl font-bold text-slate-800 mb-3 flex items-center gap-2"> Our mission is no ordinary mission </h2>
-                                    <p className="text-slate-700 leading-relaxed mb-2">This mission was launched in memory of those who waited for help that never came. May you rest in peace.</p>
+                                    <p className="text-lg font-bold text-indigo-700 leading-relaxed mb-2">This mission was launched in memory of those who waited for help that never came. May you rest in peace.</p>
                                     <p className="text-slate-700 leading-relaxed mb-4">Here is what we are fighting for:</p>
                                     <ol className="list-decimal list-inside text-slate-700 leading-relaxed space-y-2">
                                         <li>Secure more funding for organizations like CAMH — via donations and earmarked funds from the government.</li>
